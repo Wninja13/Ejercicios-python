@@ -6,9 +6,15 @@ Este repositorio contiene una serie de ejercicios de lógica de programación im
 
 El repositorio está organizado en carpetas, cada una correspondiente a un conjunto específico de ejercicios. A continuación, se presenta la estructura básica del repositorio:
 
-- **`ejercicio_1/`**: Descripción breve del ejercicio 1.
-- **`ejercicio_2/`**: Descripción breve del ejercicio 2.
-- ...
+- **`ejercicio_1`**: Escribir una secuencia de instruccion en Py que permita declarar 3 variables a,b y c asignándoles respectivamente los valores 1,'Francia',36.2 y luego mostrar los valores estas vriables en la consola.
+- **`ejercicio_2`**: Escribir un programa que permita declarar una variable ch inicializándola con el valor 'hola' y luego modificar esa misma variable para que contenga 'está bien'. El programa debe mostrar el contenido de la variable en la consola después de la modificación. 
+- **`ejercicio_3`**: Crear un programa con las variable x e y que tenga los valores 3 y 8.5. El programa en la consola debe mostrar el tipo de variables. 
+- **`ejercicio_4`**: Escribir un programa que pregunte al usuario su peso en JG y lo almacene en una variable. El programa debe mostrar al peso introducido por el usuario. 
+- **`ejercicio_5`**: Crear una variable "var" y asignarle un valor "Hola". Luego el programa debe verificar si la variable var es un entero o una cadena de texto. Si es un entero, el programa debe imprimir en la consola "entero" y si es una cadena de caracteres debe imprimir "Cadena de caracteres". 
+- **`ejercicio_6`**: Hacer un programa que contenga un variable "d" y se le asigne el valor 5. La variable debe verificar si esta es mayor o menor que 0. Si es mayor a 0 el programa debe decir "Positivo", de lo contrario "Negativo".
+- **`ejercicio_7`**: Escribir un programa que le solicite al usuario su edad y la almacene en una variable. El programa debe verificar si el usuario tiene edad mayor o menor a 18 años. Si la edad del usuario es mayor o igual a 18 entonces el programa debe imprimir "El usuario es mayor de edad", de lo contrario, debe imprimir "El usuarui es menor de edad".
+- **`ejercicio_8`**: Escribir un programa que imprima en consola los numeros de 1 a 20. Debe usarse uno con While y otro con For. 
+- 
 
 ## ▶️ Ejecución
 

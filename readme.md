@@ -46,6 +46,3 @@ Cada carpeta de ejercicio contiene un archivo principal, generalmente denominado
 Agradezco a todos aquellos que contribuyan a este repositorio, ya sea informando problemas, proponiendo mejoras o agregando nuevos ejercicios.
 
 ¡Diviértete resolviendo los ejercicios y mejorando tus habilidades de programación en Python! 🐍
-
-```bash
-python ejercicio_1/main.py 

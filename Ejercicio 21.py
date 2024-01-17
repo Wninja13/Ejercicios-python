@@ -15,3 +15,9 @@ d=frutas['Kiwi']
 e=frutas['Durazno']
 
 print(a+b+c+d+e)
+
+#Metodo alternativo. 
+
+total_frutas=sum(frutas.values())
+
+print(total_frutas)

@@ -7,7 +7,7 @@ Este repositorio contiene una serie de ejercicios de lógica de programación im
 El repositorio está organizado en carpetas, cada una correspondiente a un conjunto específico de ejercicios. A continuación, se presenta la estructura básica del repositorio:
 
 - **`🔥ejercicio_1`**: Escribir una secuencia de instruccion en Py que permita declarar 3 variables a,b y c asignándoles respectivamente los valores 1,'Francia',36.2 y luego mostrar los valores estas vriables en la consola.
-- **🔥ejercicio_2`**: Escribir un programa que permita declarar una variable ch inicializándola con el valor 'hola' y luego modificar esa misma variable para que contenga 'está bien'. El programa debe mostrar el contenido de la variable en la consola después de la modificación. 
+- **`🔥ejercicio_2`**: Escribir un programa que permita declarar una variable ch inicializándola con el valor 'hola' y luego modificar esa misma variable para que contenga 'está bien'. El programa debe mostrar el contenido de la variable en la consola después de la modificación. 
 - **`🔥ejercicio_3`**: Crear un programa con las variable x e y que tenga los valores 3 y 8.5. El programa en la consola debe mostrar el tipo de variables. 
 - **`🔥ejercicio_4`**: Escribir un programa que pregunte al usuario su peso en JG y lo almacene en una variable. El programa debe mostrar al peso introducido por el usuario. 
 - **`🔥ejercicio_5`**: Crear una variable "var" y asignarle un valor "Hola". Luego el programa debe verificar si la variable var es un entero o una cadena de texto. Si es un entero, el programa debe imprimir en la consola "entero" y si es una cadena de caracteres debe imprimir "Cadena de caracteres". 
@@ -26,6 +26,7 @@ El repositorio está organizado en carpetas, cada una correspondiente a un conju
 - **`🔥ejercicio_19`**: Debo escribir un programa que permita invertir una cadena de caracteres. La variable "ch" debe contener la siguiente frase a invertir: "Hola a todos." 
 - **`🔥ejercicio_20`**: Debe escribirse un programa que muestre en la consola el valor de las claves 'Manzana' y 'Banana'. 
 - **`🔥ejercicio_21`**: Debe escribirse un programa que permita sumar cada uno de los valores del siguiente diccionario:frutas={'Manzana':15,'Banana':8,'Frutilla':12,'Kiwi':9,'Durazno':2}
+- **`🔥ejercicio_22`**: Escribir un programa que permita truncar un numero decimal a dos cifras despues de la coma. Por ejemplo si se toma el numero 187,632587 en la consolase debe imprimir 187,63.
 ## ▶️ Ejecución
 
 Cada carpeta de ejercicio contiene un archivo principal, generalmente denominado `main.py` o similar, que incluye la implementación del ejercicio. Puedes ejecutar estos archivos para ver los resultados y entender cómo se resolvieron los problemas propuestos.

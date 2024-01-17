@@ -33,3 +33,7 @@ Agradezco a todos aquellos que contribuyan a este repositorio, ya sea informando
 
 ```bash
 python ejercicio_1/main.py
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4e6a380 (NC)

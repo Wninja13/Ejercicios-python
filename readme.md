@@ -27,7 +27,8 @@ El repositorio está organizado en carpetas, cada una correspondiente a un conju
 - **`🔥ejercicio_20`**: Debe escribirse un programa que muestre en la consola el valor de las claves 'Manzana' y 'Banana'. 
 - **`🔥ejercicio_21`**: Debe escribirse un programa que permita sumar cada uno de los valores del siguiente diccionario:frutas={'Manzana':15,'Banana':8,'Frutilla':12,'Kiwi':9,'Durazno':2}
 - **`🔥ejercicio_22`**: Escribir un programa que permita truncar un numero decimal a dos cifras despues de la coma. Por ejemplo si se toma el numero 187,632587 en la consolase debe imprimir 187,63.
-- **`🔥ejercicio_23`**: Escribir un programa que permita formatear la cadena de caracteres: "Me llamo miNombre y tengo edad años. Estoy aprendiendo el Lenguaje"
+- **`🔥ejercicio_23`**: Escribir un programa que permita formatear la cadena de caracteres: "Me llamo miNombre y tengo edad años. Estoy aprendiendo el Lenguaje". 
+- **`🔥ejercicio_24`**: Escribir un programa que muestre la tabla de multipliacacion del numero 8. 
 El programa debe permitir formatear la cadena asignadole el contenido de las variables miNombre, edad y lenguaje.
 ## ▶️ Ejecución
 

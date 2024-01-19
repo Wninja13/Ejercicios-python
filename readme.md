@@ -29,7 +29,9 @@ El repositorio está organizado en carpetas, cada una correspondiente a un conju
 - **`🔥ejercicio_22`**: Escribir un programa que permita truncar un numero decimal a dos cifras despues de la coma. Por ejemplo si se toma el numero 187,632587 en la consolase debe imprimir 187,63.
 - **`🔥ejercicio_23`**: Escribir un programa que permita formatear la cadena de caracteres: "Me llamo miNombre y tengo edad años. Estoy aprendiendo el Lenguaje". El programa debe permitir formatear la cadena asignadole el contenido de las variables miNombre, edad y lenguaje.
 - **`🔥ejercicio_24`**: Escribir un programa que muestre la tabla de multipliacacion del numero 8. 
-- **`🔥ejercicio_25`**: Escribir un programa que muestre la carpeta en al que se encuentra un programa en python. 
+- **`🔥ejercicio_25`**: Escribir un programa que muestre la carpeta en al que se encuentra un programa en python.
+- **`🔥ejercicio_26`**: Debe escribirse un programa que elimine el elemento de la siguiente lista (el elemento a eliminar es el numero 1):
+L=[1,2,3,4,5] 
 
 ## ▶️ Ejecución
 

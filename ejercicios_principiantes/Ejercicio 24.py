@@ -4,5 +4,4 @@ a=8
 i=0
 
 for i in range(11):
-    
     print(f"{a} X {i}= {a*i}")

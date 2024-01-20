@@ -30,8 +30,11 @@ El repositorio está organizado en carpetas, cada una correspondiente a un conju
 - **`🔥ejercicio_23`**: Escribir un programa que permita formatear la cadena de caracteres: "Me llamo miNombre y tengo edad años. Estoy aprendiendo el Lenguaje". El programa debe permitir formatear la cadena asignadole el contenido de las variables miNombre, edad y lenguaje.
 - **`🔥ejercicio_24`**: Escribir un programa que muestre la tabla de multipliacacion del numero 8. 
 - **`🔥ejercicio_25`**: Escribir un programa que muestre la carpeta en al que se encuentra un programa en python.
-- **`🔥ejercicio_26`**: Debe escribirse un programa que elimine el elemento de la siguiente lista (el elemento a eliminar es el numero 1):
-L=[1,2,3,4,5] 
+- **`🔥ejercicio_26`**: Debe escribirse un programa que elimine el elemento de la siguiente lista (el elemento a eliminar es el numero 1):L=[1,2,3,4,5]
+- **`🔥ejercicio_27`**: Escribir un programa que permita recuperar la extension de un archivo.
+- **`🔥ejercicio_28`**: Escribir un programa que permita medir el tiempo de ejecución de un script. Si quieres puedes tomar como ejemplo para medir este script o cualquiera que gustes. 
+- **`🔥ejercicio_29`**: Escribir un programa que permita mezclar aleatoriamente los elementos de una lista. 
+- **`🔥ejercicio_30`**: Escriba un programa para generar aleatoriamente un numero entre 20 y 30. 
 
 ## ▶️ Ejecución
 

@@ -2,7 +2,7 @@
 
 L=[3,6,9,12,15,18,21,24]
 
-for i in L:
-    L.append(L)
-print(L)
+L1=[x/3 for x in L]
+
+print('L1=',L1)
     

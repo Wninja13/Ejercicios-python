@@ -46,7 +46,7 @@ El repositorio está organizado en carpetas, cada una correspondiente a un conju
                         5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
                         5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 - **`🔥ejercicio_32`**: Escribir un  programa que cree la variable L y le asigne la lista L=[3,6,9,12,15,18,21,24]. Luego, crear una nueva lis L1, mediante una comprension de lista que contenga los numeros de L divididos por 3.  El programa debe mostrar la lisla L1 en la consola. 
-- **`🔥ejercicio_32`**: Escribir un programa  cuya variable L contenga este contenido: [-6.5,-3,1,2,8,-3.6]. Luego, crear una lueva lista  usando comprension de lista con los numeros de L que son estrictamente mayores que 0 y mostrar el contenido de L1 en la consola. 
+- **`🔥ejercicio_33`**: Escribir un programa  cuya variable L contenga este contenido: [-6.5,-3,1,2,8,-3.6]. Luego, crear una lueva lista  usando comprension de lista con los numeros de L que son estrictamente mayores que 0 y mostrar el contenido de L1 en la consola. 
 
 ## ▶️ Ejecución
 
